@@ -1,0 +1,69 @@
+﻿@model Domain.Model.Models.Donation
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes da doação</h1>
+
+<div>
+
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DonationName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DonationName)
+        </dd>
+
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ImageUri)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Model.ImageUri" style="width: 200px" />
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DateOfRegister)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DateOfRegister)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Courier)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Courier)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NewOrOld)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NewOrOld)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QuantityView)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QuantityView)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Editar</a> |
+    <a asp-action="Index">Voltar à lista</a>
+</div>
