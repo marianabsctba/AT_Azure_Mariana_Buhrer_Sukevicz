@@ -6,6 +6,12 @@ Assim, ao criar nova doação, quando acessar os detalhes, usar F5 para atualiza
 
 
 
+
+
+
+
+
+
 **Enunciado: 
 
 Na disciplina de Desenvolvimento com Azure, você compreendeu as tecnologias e principais serviços disponíveis na nuvem da Microsoft que te habilitam a realizar as seguintes ações: publicar projetos web, armazenar arquivos utilizando blobs, enviar mensagens utilizando filas, persistir dados em banco SQL, disparar funções serverless.
