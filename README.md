@@ -1,7 +1,7 @@
 
 ** Link do Azure:  https://app-final-at.azurewebsites.net/
 
-**Observações: está dando um pouco de delay... reconfigurei, mas mesmo assim, nas primeiras visualizações ainda tem delay. No entanto, está funcionando (dar f5 ns detalhes/index). Grata.
+**Observações: está dando um pouco de delay... reconfigurei, mas mesmo assim, nas primeiras visualizações ainda tem delay. No entanto, está funcionando (dar f5 ns detalhes/index). Coloquei um vídeo MP4 também. Grata.
 
 
 
