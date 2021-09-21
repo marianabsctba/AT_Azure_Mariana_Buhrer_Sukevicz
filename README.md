@@ -1,10 +1,7 @@
 
 ** Link do Azure:  https://app-final-at.azurewebsites.net/
 
-**Observações: estava dando delay... mudei para serveless e aparentemente melhorou. No entanto, está funcionando. Grata.
-
-
-
+**Observações: está dando um pouco de delay... reconfigurei, mas mesmo assim, nas primeiras visualizações ainda tem delay. No entanto, está funcionando (dar f5 ns detalhes/index). Grata.
 
 
 
