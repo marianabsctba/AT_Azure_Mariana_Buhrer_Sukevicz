@@ -1,8 +1,7 @@
 
 ** Link do Azure:  https://app-final-at.azurewebsites.net/
 
-**Observações: acabei não conseguindo publicar no serveless (dava um erro...), então está com um pouco de delay (talvez tenha sido a escolha de servidor), embora esteja funcionando. 
-Assim, ao criar nova doação, quando acessar os detalhes, usar F5 para atualizar a página de detalhes. Qualquer dúvida, inseri um vídeo MP4 com o funcionamento do código.
+**Observações: estava dando delay... mudei para serveless e aparentemente melhorou. No entanto, está funcionando. Grata.
 
 
 
